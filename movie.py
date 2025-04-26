@@ -12,7 +12,7 @@ import difflib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 #data collection from dataset (csv to pandas)
-movies_data=pd.read_csv('D:\\Users\\ABURVAN\\Desktop\\caps-python\\movies.csv')
+movies_data=pd.read_csv('D:\\Users\\svsiv\\Desktop\\caps-python\\movies.csv')
 #printing the rows of the dataset
 
 print(movies_data)
